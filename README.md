@@ -12,4 +12,4 @@ The page is now moved from heroku to github page since github now supports HTTPS
 Find out more about [Let's Encrypt](https://letsencrypt.org) by [EFF](https://eff.org)
 
 
-#### I need markdown [cheatsheet] (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+#### I need markdown [cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
