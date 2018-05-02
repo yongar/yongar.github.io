@@ -16,8 +16,8 @@
 title: Yong Choi's Page
 email: yongar@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-This is Yong Choi's Github page.
-You can see what Yong Choi is working on new Swift, Java, Python, SQL, Javascripts along with Html5 and css
+  This is Yong Choi's Github page.
+  You can see what Yong Choi is working on new Swift, Java, Python, SQL, Javascripts along with Html5 and css
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://io.yongar.net" # the base hostname & protocol for your site, e.g. http://example.com
