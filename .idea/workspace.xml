@@ -2,149 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="507372ef-1c55-4732-b78f-7819d67e7ed5" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_layout/default.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_layout/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_layout/page.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/css/style.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/css/creative.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/css/creative.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/css/css/font-awesome.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/css/css/font-awesome.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/css/font-awesome.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/css/font-awesome.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/css/fonts/FontAwesome.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/css/fonts/fontawesome-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/css/fonts/fontawesome-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/css/fonts/fontawesome-webfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/css/fonts/fontawesome-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/css/fonts/fontawesome-webfont.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/css/icofont.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/docs/README.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/docs/docco.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/docs/gulpfile.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/docs/public/fonts/aller-bold.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/docs/public/fonts/aller-bold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/docs/public/fonts/aller-bold.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/docs/public/fonts/aller-light.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/docs/public/fonts/aller-light.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/docs/public/fonts/aller-light.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/docs/public/fonts/roboto-black.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/docs/public/fonts/roboto-black.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/docs/public/fonts/roboto-black.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/docs/public/stylesheets/normalize.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/fonts/FontAwesome.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/fonts/fontawesome-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/fonts/fontawesome-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/fonts/fontawesome-webfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/fonts/fontawesome-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/fonts/fontawesome-webfont.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/fonts/icofont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/fonts/icofont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/fonts/icofont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/fonts/icofont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/img/YCHOi6_Strip_Orange.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/img/YC_MarkOnly_Ychoi5 Square.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/img/header-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/img/header.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/img/header_org.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/img/logo-220x1601.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/img/portfolio/fullsize/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/img/portfolio/fullsize/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/img/portfolio/fullsize/2017-03-07_19-37-19.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/img/portfolio/fullsize/3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/img/portfolio/fullsize/4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/img/portfolio/fullsize/5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/img/portfolio/fullsize/6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/img/portfolio/fullsize/github-2-full.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/img/portfolio/fullsize/randomQouteMachin.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/img/portfolio/fullsize/randomWiki.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/img/portfolio/fullsize/tribute.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/img/portfolio/thumbnails/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/img/portfolio/thumbnails/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/img/portfolio/thumbnails/2017-03-07_19-37-19-thumbnail.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/img/portfolio/thumbnails/2017-03-07_19-37-19.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/img/portfolio/thumbnails/3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/img/portfolio/thumbnails/4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/img/portfolio/thumbnails/5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/img/portfolio/thumbnails/6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/img/portfolio/thumbnails/GitHub-Mark-120px-plus.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/img/portfolio/thumbnails/github-2-thumb.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/img/portfolio/thumbnails/github-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/img/portfolio/thumbnails/randomQouteMachineThumb.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/img/portfolio/thumbnails/randomWikiThumb.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/img/portfolio/thumbnails/tribute.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/js/creative.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/js/creative.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/vendor/bootstrap/css/bootstrap.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/vendor/bootstrap/css/bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/vendor/bootstrap/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/vendor/bootstrap/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/vendor/bootstrap/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/vendor/bootstrap/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/vendor/bootstrap/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/vendor/bootstrap/js/bootstrap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/vendor/bootstrap/js/bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/vendor/font-awesome/css/font-awesome.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/vendor/font-awesome/css/font-awesome.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/vendor/font-awesome/fonts/FontAwesome.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/vendor/font-awesome/fonts/fontawesome-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/vendor/font-awesome/fonts/fontawesome-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/vendor/font-awesome/fonts/fontawesome-webfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/vendor/font-awesome/fonts/fontawesome-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/vendor/font-awesome/fonts/fontawesome-webfont.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/vendor/font-awesome/less/animated.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/vendor/font-awesome/less/bordered-pulled.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/vendor/font-awesome/less/core.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/vendor/font-awesome/less/fixed-width.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/vendor/font-awesome/less/font-awesome.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/vendor/font-awesome/less/icons.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/vendor/font-awesome/less/larger.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/vendor/font-awesome/less/list.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/vendor/font-awesome/less/mixins.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/vendor/font-awesome/less/path.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/vendor/font-awesome/less/rotated-flipped.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/vendor/font-awesome/less/screen-reader.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/vendor/font-awesome/less/stacked.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/vendor/font-awesome/less/variables.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/vendor/font-awesome/scss/_animated.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/vendor/font-awesome/scss/_bordered-pulled.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/vendor/font-awesome/scss/_core.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/vendor/font-awesome/scss/_fixed-width.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/vendor/font-awesome/scss/_icons.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/vendor/font-awesome/scss/_larger.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/vendor/font-awesome/scss/_list.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/vendor/font-awesome/scss/_mixins.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/vendor/font-awesome/scss/_path.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/vendor/font-awesome/scss/_rotated-flipped.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/vendor/font-awesome/scss/_screen-reader.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/vendor/font-awesome/scss/_stacked.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/vendor/font-awesome/scss/_variables.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/vendor/font-awesome/scss/font-awesome.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/vendor/jquery/jquery.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/vendor/jquery/jquery.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/vendor/magnific-popup/docs/docco.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/vendor/magnific-popup/docs/jquery.magnific-popup.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/vendor/magnific-popup/docs/jquery.magnific-popup.min.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/vendor/magnific-popup/docs/public/fonts/aller-bold.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/vendor/magnific-popup/docs/public/fonts/aller-bold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/vendor/magnific-popup/docs/public/fonts/aller-bold.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/vendor/magnific-popup/docs/public/fonts/aller-light.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/vendor/magnific-popup/docs/public/fonts/aller-light.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/vendor/magnific-popup/docs/public/fonts/aller-light.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/vendor/magnific-popup/docs/public/fonts/roboto-black.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/vendor/magnific-popup/docs/public/fonts/roboto-black.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/vendor/magnific-popup/docs/public/fonts/roboto-black.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/vendor/magnific-popup/docs/public/stylesheets/normalize.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/vendor/magnific-popup/jquery.magnific-popup.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/vendor/magnific-popup/jquery.magnific-popup.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/vendor/magnific-popup/magnific-popup.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/vendor/scrollreveal/scrollreveal.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bootstrap/vendor/scrollreveal/scrollreveal.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -167,11 +25,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="676">
-              <caret line="28" column="26" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
+            <state relative-caret-position="570">
+              <caret line="22" column="26" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -197,11 +55,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.scss" pinned="false" current-in-tab="true">
+      <file leaf-file-name="style.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/asset/css/style.scss">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="84">
-              <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+              <caret line="3" column="27" lean-forward="true" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -250,7 +108,6 @@
         <option value="$PROJECT_DIR$/_layout/404.html" />
         <option value="$PROJECT_DIR$/_posts/2018-05-02-welcome-to-jekyll.markdown" />
         <option value="$PROJECT_DIR$/_posts/firstpost.html" />
-        <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/_site/assets/css/style.scss" />
         <option value="$PROJECT_DIR$/_layout/page.html" />
@@ -260,6 +117,7 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/_layout/default.html" />
         <option value="$PROJECT_DIR$/asset/css/style.scss" />
+        <option value="$PROJECT_DIR$/_config.yml" />
       </list>
     </option>
   </component>
@@ -365,7 +223,7 @@
       <workItem from="1525064109337" duration="219000" />
       <workItem from="1525107211231" duration="10000" />
       <workItem from="1525219633299" duration="1794000" />
-      <workItem from="1525288753811" duration="2921000" />
+      <workItem from="1525288753811" duration="3051000" />
     </task>
     <task id="LOCAL-00001" summary="Changing HTML to MD">
       <created>1525064174798</created>
@@ -378,7 +236,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5069000" />
+    <option name="totallyTimeSpent" value="5199000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1073" y="23" width="1487" height="1363" extended-state="0" />
@@ -562,13 +420,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="676">
-          <caret line="28" column="26" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_layout/page.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="112">
@@ -634,7 +485,14 @@
     <entry file="file://$PROJECT_DIR$/asset/css/style.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
-          <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+          <caret line="3" column="27" lean-forward="true" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="22" column="26" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
         </state>
       </provider>
     </entry>
