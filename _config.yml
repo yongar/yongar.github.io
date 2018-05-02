@@ -28,6 +28,34 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-assets
+  - jekyll-github-metadata
+
+
+# gems
+gems:
+- jekyll-default-layout
+
+# Github metadata
+repository: yongar/yongar
+# End
+# jekyll-se-tag settings
+social:
+    name: yongar
+    links:
+        - https://twitter.com/yongar
+        - https://github.com/yongar
+
+    twitter:
+        username: yongar
+
+# End
+
+# date format
+date_format: "%b %-d, %Y"
+# end
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
