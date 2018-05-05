@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   You can see what Yong Choi is working on new Swift, Java, Python, SQL, Javascripts along with Html5 and css
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://io.yongar.net" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://io.yongar.net" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: yongar
 github_username:  yongar
 

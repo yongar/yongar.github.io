@@ -2,6 +2,11 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: home
+layout: page
+title: home
+permalink: /index/
+
 ---
-#testing here
+# {{ page.title }}
+# testing here
+## Testing 2nd
