@@ -10,3 +10,10 @@ permalink: /index/
 # {{ page.title }}
 # testing here
 ## Testing 2nd
+</header>
+
+<div class="content">
+    {{ content }}
+</div>
+
+<footer>
