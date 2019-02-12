@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Yong Choi's Page
-email: yongar@gmail.com
+email: iam@yongchoi.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is Yong Choi's Github page.
   You can see what Yong Choi is working on new Swift, Java, Python, SQL, Javascripts along with Html5 and css
