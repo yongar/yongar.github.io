@@ -26,7 +26,7 @@ github_username:  yongar
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-midnight
+theme: jekyll-theme-modernist
 plugins:
   - jekyll-feed
 
